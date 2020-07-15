@@ -1,7 +1,7 @@
 ### Hi there 👋
 Salesforce Software Engineering – Designing, developing and maintaining new and existing software solutions while improving overall service delivery.
 
-I am very familiar with programming languages, core Java technologies, software requirement engineering, software verification & validation, software architecture & design and software development lifecycle. In addition, I am proficient in quality assurance & testing. As a true professional I am eager to contribute my abilities and experience to your organization technical initiatives. 
+I am very familiar with programming languages, core Java technologies, software requirement engineering, software verification & validation, software architecture & design and software development lifecycle.
 <!--
 **jriordan22849/jriordan22849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
