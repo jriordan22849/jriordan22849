@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Software Engineer. I'm currnetly working on the Salesforce Force.com platofrm.
 
 <!--
 **jriordan22849/jriordan22849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
